@@ -1,6 +1,6 @@
 define([
-  'lodash-amd/modern/objects/defaults',
-  'lodash-amd/modern/arrays/flatten',
+  'lodash-node/modern/objects/defaults',
+  'lodash-node/modern/arrays/flatten',
   './plugins/core/commands',
   './plugins/core/events',
   './plugins/core/formatters/html/replace-nbsp-chars',

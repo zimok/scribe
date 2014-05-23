@@ -1,6 +1,6 @@
 'use strict';
-var defaults = require('lodash-amd/modern/objects/defaults');
-var flatten = require('lodash-amd/modern/arrays/flatten');
+var defaults = require('lodash-node/modern/objects/defaults');
+var flatten = require('lodash-node/modern/arrays/flatten');
 var commands = require('./plugins/core/commands');
 var events = require('./plugins/core/events');
 var replaceNbspCharsFormatter = require('./plugins/core/formatters/html/replace-nbsp-chars');
