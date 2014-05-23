@@ -1,4 +1,4 @@
-define(['lodash-amd/modern/arrays/pull'], function (pull) {
+define(['lodash-node/modern/arrays/pull'], function (pull) {
 
   'use strict';
 

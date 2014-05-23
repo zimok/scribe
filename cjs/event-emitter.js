@@ -1,5 +1,5 @@
 'use strict';
-var pull = require('lodash-amd/modern/arrays/pull');
+var pull = require('lodash-node/modern/arrays/pull');
 
   // TODO: once
   // TODO: unit test

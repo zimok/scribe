@@ -1,5 +1,5 @@
 'use strict';
-var assign = require('lodash-amd/modern/objects/assign');
+var assign = require('lodash-node/modern/objects/assign');
 
   module.exports = function (scribe) {
     function TransactionManager() {

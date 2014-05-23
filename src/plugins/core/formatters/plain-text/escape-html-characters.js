@@ -1,5 +1,5 @@
 define([
-  'lodash-amd/modern/utilities/escape'
+  'lodash-node/modern/utilities/escape'
 ], function (
   escape
 ) {

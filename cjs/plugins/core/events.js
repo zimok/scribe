@@ -1,5 +1,5 @@
 'use strict';
-var contains = require('lodash-amd/modern/collections/contains');
+var contains = require('lodash-node/modern/collections/contains');
 var observeDomChanges = require('../../dom-observer');
 
   module.exports = function () {

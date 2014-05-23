@@ -1,5 +1,5 @@
 'use strict';
-var contains = require('lodash-amd/modern/collections/contains');
+var contains = require('lodash-node/modern/collections/contains');
 
   // TODO: not exhaustive?
   var blockElementNames = ['P', 'LI', 'DIV', 'BLOCKQUOTE', 'UL', 'OL', 'H1',

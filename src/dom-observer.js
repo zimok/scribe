@@ -1,6 +1,6 @@
 define([
-  'lodash-amd/modern/arrays/flatten',
-  'lodash-amd/modern/collections/toArray'
+  'lodash-node/modern/arrays/flatten',
+  'lodash-node/modern/collections/toArray'
 ], function (
   flatten,
   toArray

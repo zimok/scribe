@@ -1,5 +1,5 @@
-var flatten = require('lodash-amd/modern/arrays/flatten');
-var toArray = require('lodash-amd/modern/collections/toArray');
+var flatten = require('lodash-node/modern/arrays/flatten');
+var toArray = require('lodash-node/modern/collections/toArray');
 
   function observeDomChanges(el, callback) {
     function notEmptyTextNode(node) {

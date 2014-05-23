@@ -1,5 +1,5 @@
 'use strict';
-var last = require('lodash-amd/modern/arrays/last');
+var last = require('lodash-node/modern/arrays/last');
 var element = require('../../../../api/element');
 
   /**
